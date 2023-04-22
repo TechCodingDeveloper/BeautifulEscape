@@ -18,4 +18,4 @@ With +8 years of experience as a software engineer and front-end developer, I po
 
 # BeautifulEscape
 
-![Logo](https://raw.githubusercontent.com/devnozari/BeautifulEscape/main/Images/Image.PNG)
+![Logo](https://github.com/devnozari/BeautifulEscape/blob/main/Images/Image.png)
